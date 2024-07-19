@@ -1,5 +1,7 @@
-.author-discrip h3 {
-  text-align: center;
+@media (min-width: 768px) {
+  .author-discrip h3 {
+    text-align: center; /* Web端文本居中对齐 */
+  }
 }
 .page pre,
 .page .highlight {
